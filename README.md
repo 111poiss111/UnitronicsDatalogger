@@ -1,0 +1,1 @@
+Unitronics Datalogger is a program, that is meant to run on a RaspberryPi. It checks it's locally hosted SQL database for MI aadresses, that it should log and logs them at specific interval into SQL tables. Communication is done over Unitronics network card with official Unitronics.ComDriver library.
